@@ -10,7 +10,7 @@ Advantages:
 - Fast execution and lightweight code: the browser will like it ;-)
 - You can change the settings - [see below](#advanced-usage)
 
-Follow [@mattaussaguel](//twitter.com/mattaussaguel) for updates as WOW evolves.
+Note: [@mattaussaguel](//twitter.com/mattaussaguel)'s repo was changed from MIT to GNUv3 on Aug 20, 2015 in order to charge a licensing fee for WOW.js. This fork provides you with the final MIT-licensed version of this library. ID:[37c0fa79463f3fa766ed9e7c2e8710168f6580a6](https://github.com/matthieua/WOW/tree/37c0fa79463f3fa766ed9e7c2e8710168f6580a6)
 
 ### [LIVE DEMO ➫](http://mynameismatthieu.com/WOW/)
 
